@@ -62,7 +62,7 @@ function sortearAmigo() {
     resultado.innerHTML = `El amigo sorteado es: ${amigoSorteado}`;
 
     //Cambia el texto del boton y actuliza su estado
-    iconoSorteo.src = "assets/reiniciar_icono.png"
+    iconoSorteo.src = "assets/icono-reiniciar.png"
     botonSortear.innerHTML = "Reiniciar sorteo";
     botonSortear.dataset.estado = "reiniciar";
 }
