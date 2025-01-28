@@ -50,7 +50,7 @@ Accede a la aplicación sin necesidad de descargar nada:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/lgarciabode/amigo-secreto.git
    cd amigo-secreto
 
 2. Abre el archivo index.html en tu navegador.
